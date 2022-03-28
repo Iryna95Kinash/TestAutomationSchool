@@ -1,1 +1,1 @@
-# JavaAutomationSchool
+# TestAutomationSchool
